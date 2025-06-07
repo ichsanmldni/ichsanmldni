@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ichsan 👋</h1>
-<h3 align="center">Full-Stack Developer | Tech Explorer 🚀</h3>
+<h3 align="center">Full-Stack Developer | Tech Explorer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FFB2&center=true&vCenter=true&width=435&lines=Learning+Every+Day+%F0%9F%93%9A;Let%27s+Build+Something+Cool+Together+%F0%9F%9A%80;" alt="Typing SVG" />
