@@ -60,10 +60,7 @@
 
 ### 🎯 Fun Facts
 
-- ✍️ I write clean code like poetry
-- 🧩 I love solving logical puzzles and system design problems
-- 🧘 I meditate with code sometimes...
-- 🐱 Cats are better than coffee. Or maybe both ☕🐈
+- 🏃‍♂️ I love long-distance running, but when I’m deep in code — I skip the track. When I’m off coding — I hit the road. Balance is overrated!
 
 ---
 
