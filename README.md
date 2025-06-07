@@ -55,10 +55,12 @@
 
 ### 🧠 Currently Learning & Building
 
-- 🧱 Building SaaS product with Nextjs
+- 🔍 Exploring new SaaS ideas (not started building yet)
+- 🐛 Fixing bugs after projects: Deeplib & BimaFIK
+- 🐳 Learning Docker for containerization
+- 🌀 Diving into Go (Golang) programming
+- 🛠 Improving PHP & Laravel skills
 - ⚙️ Playing with AI APIs & LLM integration
-- 🧾 Automating invoice + contract workflow
-- 💼 Setting up small software house (PT Perorangan)
 
 ---
 
