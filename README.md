@@ -56,7 +56,7 @@
 ### 🧠 Currently Learning & Building
 
 - 🔍 Exploring new SaaS ideas (not started building yet)
-- 🐛 Fixing bugs after projects: Deeplib & BimaFIK
+- 🛠 Maintaining and improving Deeplib & BimaFIK projects
 - 🐳 Learning Docker for containerization
 - 🌀 Diving into Go (Golang) programming
 - 🛠 Improving PHP & Laravel skills
