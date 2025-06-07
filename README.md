@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Tech Explorer 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=435&lines=Crafting+Code+%F0%9F%92%BB+to+Build+Impact;Learning+Every+Day+%F0%9F%93%9A;Let%27s+Build+Something+Cool+Together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFB2&center=true&vCenter=true&width=435&lines=Crafting+Code+%F0%9F%92%BB+to+Build+Impact;Learning+Every+Day+%F0%9F%93%9A;Let's+Build+Something+Cool+Together+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -73,12 +73,6 @@
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------- | ---------------------------------------- |
 | [Guidance Academic System](https://github.com/ichsanmldni/bimbingan-akademik-fik-upnvj) | Bimbingan akademik digitalisasi with complete role-based flow. | Next.js + Prisma | [Visit](https://bima.fik.upnvj.ac.id)    |
 | [Digital Library Chatbot System](https://github.com/ichsanmldni/deeplib)                | Chatbot interaktif untuk sistem digital library fakultas.      | Next.js + Prisma | [Visit](https://deeplib.fik.upnvj.ac.id) |
-
----
-
-### 🎨 GitHub Skyline
-
-[![GitHub Skyline](https://github.com/ichsanmldni/ichsanmldni/blob/main/skyline.gif)](https://skyline.github.com/ichsanmldni)
 
 ---
 
