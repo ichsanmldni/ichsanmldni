@@ -123,7 +123,7 @@ _Interactive chatbot for faculty digital library system_
 ```javascript
 const currentFocus = {
   learning: ["Docker 🐳", "Go/Golang 🚀", "AI APIs 🤖"],
-  building: ["SaaS Ideas 💡", "Personal Projects 🛠️"],
+  building: ["SaaS Ideas 💡", "Personal Projects 🛠️", "SiPas FIK 🛠️"],
   improving: ["PHP & Laravel 🔧", "System Architecture 🏗️"],
   maintaining: ["Deeplib", "BimaFIK"],
 };
